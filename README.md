@@ -78,7 +78,7 @@ This project shows how machine learning can be used in logistics to optimize las
 - Scikit-learn
 - Matplotlib, Seaborn
 
-- Author
+- ## Author
 - 
 - Aneena Jomy
 - datascience student
